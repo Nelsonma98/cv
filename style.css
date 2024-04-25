@@ -174,7 +174,7 @@ body {
     float: left;
 }
 .img img {
-    background: white;
+    background: var(--white);
     width: 40px;
     padding: 3px;
     border-radius: 20px;
