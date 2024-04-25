@@ -175,7 +175,7 @@ body {
 }
 .img img {
     background: var(--white);
-    width: 40px;
+    width: 30px;
     padding: 3px;
     border-radius: 20px;
     margin-left: 10px;
