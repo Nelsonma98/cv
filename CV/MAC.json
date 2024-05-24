@@ -143,6 +143,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Backend Developer"
       ]
