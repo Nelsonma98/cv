@@ -10,6 +10,10 @@
       "surnames": "Mendoza Alvarez",
       "title": "Lic. Ciencias de la Computación ",
       "description": "Licenciado en Ciencias de la Computación con dominio de varios lenguajes de programación, incluyendo C, C++, C#, Python, TypeScript y JavaScript. Apasionado por las nuevas tecnologías y entusiasta de compartir conocimientos con otros. Disfruto la resolución de problemas en concursos de programación. Conocedor de las metodologías ágiles de desarrollo de software y herramientas como Git. Valoro altamente el nivel de organización y planificación en el proceso de desarrollo, la implementación de buenas prácticas y la generación de código de calidad.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/24/ef6e946a-3915-4f5e-8d7c-1c0d88d34ec8_336615413_3328727617.jpg",
+        "alt": "336615413_3328727617374071_7402937356834503993_n.jpg"
+      },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJ4QD2vUx3zYgRYA13Gn5NKU4)",
         "country": "Cuba",
