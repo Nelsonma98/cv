@@ -27,6 +27,10 @@
         "URL": "https://www.linkedin.com/in/nelson-mendoza-alvarez"
       },
       {
+        "type": "github",
+        "URL": "https://github.com/Nelsonma98"
+      },
+      {
         "type": "other",
         "URL": "https://nelsonma98.github.io/cv/",
         "description": "CV"
@@ -157,6 +161,10 @@
         {
           "URL": "https://www.linkedin.com/in/nelson-mendoza-alvarez",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/Nelsonma98",
+          "type": "github"
         }
       ],
       "contactMails": [
