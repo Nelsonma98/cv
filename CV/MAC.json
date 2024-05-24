@@ -145,6 +145,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Express",
+          "type": "technology"
+        },
+        {
           "name": "NodeJS",
           "type": "technology"
         },
