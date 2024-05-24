@@ -16,7 +16,13 @@
         "region": "La Habana",
         "municipality": "La Habana"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://nelsonma98.github.io/cv/"
+      }
+    ]
   },
   "experience": {
     "jobs": [
