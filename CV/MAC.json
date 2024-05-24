@@ -1,0 +1,176 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Nelson",
+      "surnames": "Mendoza Alvarez",
+      "title": "Lic. Ciencias de la Computación ",
+      "description": "Licenciado en Ciencias de la Computación con dominio de varios lenguajes de programación, incluyendo C, C++, C#, Python, TypeScript y JavaScript. Apasionado por las nuevas tecnologías y entusiasta de compartir conocimientos con otros. Disfruto la resolución de problemas en concursos de programación. Conocedor de las metodologías ágiles de desarrollo de software y herramientas como Git. Valoro altamente el nivel de organización y planificación en el proceso de desarrollo, la implementación de buenas prácticas y la generación de código de calidad.",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ4QD2vUx3zYgRYA13Gn5NKU4)",
+        "country": "Cuba",
+        "region": "La Habana",
+        "municipality": "La Habana"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Guajiritos SRL ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/24/4b32c712-b742-408c-82cb-c41a0e4a7773_1000156058.png",
+            "alt": "1000156058.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Backend ",
+            "startDate": "2023-05-01",
+            "finishDate": "2023-10-01",
+            "challenges": [
+              {
+                "description": "Trabajo con JavaScript y TypeScript en los frameworks Express.js y Nest.js y DB MongoDB, Postgres y SQLite"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GraphQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "nestJS",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Licenciado en Ciencias de la Computación ",
+        "startDate": "2018-09-01",
+        "institution": {
+          "name": "Universidad de la Habana ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/24/2fce9616-bbed-41bb-ae44-9ab86bc55dcb_1000156059.jpg",
+            "alt": "1000156059.jpg"
+          }
+        },
+        "finishDate": "2023-12-01"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "contactMails": [
+        "mendozaalvareznelson@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": ".Net Core",
+        "type": "technology"
+      },
+      {
+        "name": "Express",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "nestJS",
+        "type": "technology"
+      }
+    ]
+  }
+}
