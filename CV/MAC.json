@@ -23,6 +23,10 @@
     },
     "relevantLinks": [
       {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/nelson-mendoza-alvarez"
+      },
+      {
         "type": "other",
         "URL": "https://nelsonma98.github.io/cv/",
         "description": "CV"
@@ -149,6 +153,12 @@
   },
   "careerPreferences": {
     "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/nelson-mendoza-alvarez",
+          "type": "linkedin"
+        }
+      ],
       "contactMails": [
         "mendozaalvareznelson@gmail.com"
       ]
