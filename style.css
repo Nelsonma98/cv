@@ -156,6 +156,7 @@ body {
     margin-top: -6px;
 }
 .p3 {
+    font-size: 14px;
     margin-top: 20px;
     color: var(--lightword);
     text-align: justify;
@@ -179,6 +180,12 @@ body {
     padding: 3px;
     border-radius: 20px;
     margin-left: 10px;
+    transition: all 0.3s ease;
+}
+.img:hover img {
+    transform: scale(1.2); /* 20% más grande */
+    box-shadow: 0 0 12px rgba(0,0,0,0.3);
+    cursor: pointer;
 }
 .lr-box {
     margin-top: 20px;
@@ -199,6 +206,7 @@ body {
     color: var(--lightword);
 }
 .courses-list{
+    font-size: 14px;
     margin-left: 20px;
 }
 #progress{
